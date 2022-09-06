@@ -1,0 +1,134 @@
+header {
+    position: absolute;
+        width: 1600px;
+        height: 80px;
+        left: 0px;
+        top: 0px;
+    
+        background: #FFFFFF;
+}
+body {
+    background: #F5F5F5;
+}
+.teamsection {
+    font-style: normal;
+    list-style: none;
+    text-decoration: none;
+}
+.teams {
+    text-decoration: none;
+    list-style: none;
+}
+.button1 {
+    background: rgba(33, 150, 243, 1);
+}
+h1 {
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+h2 {
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+h3 {
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+p {
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+li {
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+.technocrack {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 215px;
+        top: 262px;
+    
+        background: url(portfolio1.jpg);
+}
+.orleanvsstar {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 615px;
+        top: 262px;
+    
+        background: url(portfolio2.jpg);
+}
+.seafood {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 262px;
+    
+        background: url(portfolio-1.jpg);
+}
+.prime {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 215px;
+        top: 696px;
+    
+        background: url(portfolio-2.jpg);
+}
+.boxes {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 615px;
+        top: 696px;
+    
+        background: url(portfolio5.jpg);
+}
+.inspiration {
+position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 696px;
+
+    background: url(111.jpg);
+}
+.limited_edition {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 215px;
+        top: 1130px;
+    
+        background: url(portfolio7.jpg);
+}
+.lab {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 615px;
+        top: 1130px;
+    
+        background: url(portfolio8.jpg);
+}
+.business {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 1130px;
+    
+        background: url(2910404.jpg);
+}
+footer {
+    position: absolute;
+        width: 1600px;
+        height: 252px;
+        left: 0px;
+        top: 1628px;
+    
+        background: #2F303A;
+}
