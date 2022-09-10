@@ -16,6 +16,38 @@ header {
     
         background: #FFFFFF;
 }
+.mail-header {
+    position: absolute;
+        width: 135px;
+        height: 16px;
+        left: 1078px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #2196F3;
+}
+.phone-header {
+    position: absolute;
+        width: 122px;
+        height: 16px;
+        left: 1263px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #757575; 
+    }
 .webstudio {
         position: absolute;
         width: 145px;
@@ -143,23 +175,7 @@ body {
         background: #F5F4FA;
         border-radius: 4px;
 }
-h1 {
-        font-family: 'Roboto';
-        font-style: normal;
-    }
-h2 {
-        font-family: 'Roboto';
-        font-style: normal;
-    }
-h3 {
-        font-family: 'Roboto';
-        font-style: normal;
-    }
-p {
-        font-family: 'Roboto';
-        font-style: normal;
-    }
-li {
+h1 , h2 , h3 , p, li {
         font-family: 'Roboto';
         font-style: normal;
     }
