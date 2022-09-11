@@ -4,17 +4,17 @@ header {
         height: 80px;
         left: 0px;
         top: 0px;
-        background: #FFFFFF;
+        background: white;
 }
 body {
-    background: #F5F5F5;
+    background: white;
 }
 h1,
 h2,
 h3,
 p,
 li {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 }
 footer {
     position: absolute;
@@ -22,7 +22,7 @@ footer {
     height: 252px;
     left: 0px;
     top: 1628px;
-    background: #2F303A;
+    background: black;
 }
 .navigation {
         position: absolute;
@@ -30,7 +30,7 @@ footer {
         height: 80px;
         left: 0px;
         top: 0px;
-        background: #FFFFFF;
+        background: white;
 }
 .mail-header {
     position: absolute;
@@ -38,7 +38,7 @@ footer {
         height: 16px;
         left: 1078px;
         top: 32px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -52,7 +52,7 @@ footer {
         height: 16px;
         left: 1263px;
         top: 32px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -66,7 +66,7 @@ footer {
         height: 31px;
         left: 215px;
         top: 24px;
-        font-family: 'Raleway';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
@@ -80,7 +80,7 @@ footer {
         height: 16px;
         left: 453px;
         top: 32px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -94,7 +94,7 @@ footer {
         height: 16px;
         left: 548px;
         top: 32px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -108,7 +108,7 @@ footer {
         height: 16px;
         left: 670px;
         top: 32px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -175,7 +175,7 @@ footer {
         height: 294px;
         left: 215px;
         top: 262px;
-        background: url(portfolio1.jpg);
+        background:;
 }
 .orleanvsstar {
     position: absolute;
@@ -183,7 +183,7 @@ footer {
         height: 294px;
         left: 615px;
         top: 262px;
-        background: url(portfolio2.jpg);
+        background:;
 }
 .seafood {
     position: absolute;
@@ -191,7 +191,7 @@ footer {
         height: 294px;
         left: 1015px;
         top: 262px;
-        background: url(portfolio-1.jpg);
+        background:;
 }
 .prime {
     position: absolute;
@@ -199,7 +199,7 @@ footer {
         height: 294px;
         left: 215px;
         top: 696px;
-        background: url(portfolio-2.jpg);
+        background:;
 }
 .boxes {
     position: absolute;
@@ -207,7 +207,7 @@ footer {
         height: 294px;
         left: 615px;
         top: 696px;
-        background: url(portfolio5.jpg);
+        background:;
 }
 .inspiration {
 position: absolute;
@@ -215,7 +215,7 @@ position: absolute;
     height: 294px;
     left: 1015px;
     top: 696px;
-    background: url(111.jpg);
+    background:;
 }
 .limited_edition {
     position: absolute;
@@ -223,7 +223,7 @@ position: absolute;
         height: 294px;
         left: 215px;
         top: 1130px;
-        background: url(portfolio7.jpg);
+        background:;
 }
 .lab {
     position: absolute;
@@ -231,7 +231,7 @@ position: absolute;
         height: 294px;
         left: 615px;
         top: 1130px;
-        background: url(portfolio8.jpg);
+        background:;
 }
 .business {
     position: absolute;
@@ -239,7 +239,7 @@ position: absolute;
         height: 294px;
         left: 1015px;
         top: 1130px;
-        background: url(2910404.jpg);
+        background:;
 }
 .webstudio1 {
     position: absolute;
@@ -247,7 +247,7 @@ position: absolute;
         height: 31px;
         left: 215px;
         top: 1688px;
-        font-family: 'Raleway';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
@@ -261,7 +261,7 @@ position: absolute;
         height: 21px;
         left: 215px;
         top: 1739px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
