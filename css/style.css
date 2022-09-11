@@ -4,8 +4,25 @@ header {
         height: 80px;
         left: 0px;
         top: 0px;
-    
         background: #FFFFFF;
+}
+body {
+    background: #F5F5F5;
+}
+h1,
+h2,
+h3,
+p,
+li {
+    font-family: 'Roboto';
+}
+footer {
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 1628px;
+    background: #2F303A;
 }
 .navigation {
         position: absolute;
@@ -13,7 +30,6 @@ header {
         height: 80px;
         left: 0px;
         top: 0px;
-    
         background: #FFFFFF;
 }
 .mail-header {
@@ -22,14 +38,12 @@ header {
         height: 16px;
         left: 1078px;
         top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-    
         color: #2196F3;
 }
 .phone-header {
@@ -38,14 +52,12 @@ header {
         height: 16px;
         left: 1263px;
         top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-    
         color: #757575; 
     }
 .webstudio {
@@ -54,16 +66,12 @@ header {
         height: 31px;
         left: 215px;
         top: 24px;
-
         font-family: 'Raleway';
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
-        line-height: 31px;
-        /* identical to box height */
-
+        line-height: 31px;        /* identical to box height */
         letter-spacing: 0.03em;
-
         color: #2196F3;
 }
 .studio {
@@ -72,14 +80,12 @@ header {
         height: 16px;
         left: 453px;
         top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-    
         color: #212121;
 }
 .portfolio {
@@ -88,14 +94,12 @@ header {
         height: 16px;
         left: 548px;
         top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-    
         color: #2196F3;
 }
 .contacts {
@@ -104,20 +108,15 @@ header {
         height: 16px;
         left: 670px;
         top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-    
         color: #212121;
 }
-body {
-    background: #F5F5F5;
-}
-.teamsection {
+.team-section {
     font-style: normal;
     list-style: none;
     text-decoration: none;
@@ -132,7 +131,6 @@ body {
         height: 38px;
         left: 512px;
         top: 174px;
-
         background: #2196F3;
 }
 .button2 {
@@ -141,7 +139,6 @@ body {
         height: 38px;
         left: 593px;
         top: 174px;
-
         background: #F5F4FA;
         border-radius: 4px;
 }
@@ -151,7 +148,6 @@ body {
         height: 38px;
         left: 726px;
         top: 174px;
-
         background: #F5F4FA;
         border-radius: 4px;
 }
@@ -161,7 +157,6 @@ body {
         height: 38px;
         left: 846px;
         top: 174px;
-    
         background: #F5F4FA;
         border-radius: 4px;
 }
@@ -171,21 +166,15 @@ body {
         height: 38px;
         left: 957px;
         top: 174px;
-
         background: #F5F4FA;
         border-radius: 4px;
 }
-h1 , h2 , h3 , p, li {
-        font-family: 'Roboto';
-        font-style: normal;
-    }
 .technocrack {
     position: absolute;
         width: 370px;
         height: 294px;
         left: 215px;
         top: 262px;
-    
         background: url(portfolio1.jpg);
 }
 .orleanvsstar {
@@ -194,7 +183,6 @@ h1 , h2 , h3 , p, li {
         height: 294px;
         left: 615px;
         top: 262px;
-    
         background: url(portfolio2.jpg);
 }
 .seafood {
@@ -203,7 +191,6 @@ h1 , h2 , h3 , p, li {
         height: 294px;
         left: 1015px;
         top: 262px;
-    
         background: url(portfolio-1.jpg);
 }
 .prime {
@@ -212,7 +199,6 @@ h1 , h2 , h3 , p, li {
         height: 294px;
         left: 215px;
         top: 696px;
-    
         background: url(portfolio-2.jpg);
 }
 .boxes {
@@ -221,7 +207,6 @@ h1 , h2 , h3 , p, li {
         height: 294px;
         left: 615px;
         top: 696px;
-    
         background: url(portfolio5.jpg);
 }
 .inspiration {
@@ -230,7 +215,6 @@ position: absolute;
     height: 294px;
     left: 1015px;
     top: 696px;
-
     background: url(111.jpg);
 }
 .limited_edition {
@@ -239,7 +223,6 @@ position: absolute;
         height: 294px;
         left: 215px;
         top: 1130px;
-    
         background: url(portfolio7.jpg);
 }
 .lab {
@@ -248,7 +231,6 @@ position: absolute;
         height: 294px;
         left: 615px;
         top: 1130px;
-    
         background: url(portfolio8.jpg);
 }
 .business {
@@ -257,17 +239,7 @@ position: absolute;
         height: 294px;
         left: 1015px;
         top: 1130px;
-    
         background: url(2910404.jpg);
-}
-footer {
-    position: absolute;
-        width: 1600px;
-        height: 252px;
-        left: 0px;
-        top: 1628px;
-    
-        background: #2F303A;
 }
 .webstudio1 {
     position: absolute;
@@ -275,16 +247,12 @@ footer {
         height: 31px;
         left: 215px;
         top: 1688px;
-    
         font-family: 'Raleway';
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 31px;
-        /* identical to box height */
-    
         letter-spacing: 0.03em;
-    
         color: #2196F3;
 }
 .location {
@@ -293,15 +261,11 @@ footer {
         height: 21px;
         left: 215px;
         top: 1739px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
-        /* or 171% */
-    
         letter-spacing: 0.03em;
-    
         color: black;
 }
