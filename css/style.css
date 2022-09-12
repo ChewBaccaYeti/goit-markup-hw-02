@@ -1,44 +1,20 @@
 body {
-    margin: 0 auto;
-    font-family: 'Roboto';
-    background: white;
-}
-.h1,
-.h2,
-.paragraph,
-li {
     font-family: 'Roboto', sans-serif;
+    background: white;
 }
 img {
     width: fit-content;
 }
 .header {
-        position: absolute;
-        width: 1600px;
-        left: 0px;
-        top: 0px;
         background: white;
 }
 .footer {
-    position: absolute;
-    width: 1600px;
-    left: 0px;
-    top: 1628px;
     background: black;
 }
 .navigation {
-        position: absolute;
-        width: 1600px;
-        left: 0px;
-        top: 0px;
         background: white;
 }
 .mail-header {
-    position: absolute;
-        width: 135px;
-        left: 1078px;
-        top: 32px;
-        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -47,12 +23,6 @@ img {
         color: #2196F3;
 }
 .phone-header {
-    position: absolute;
-        width: 122px;
-        height: 16px;
-        left: 1263px;
-        top: 32px;
-        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -61,11 +31,6 @@ img {
         color: #757575; 
     }
 .webstudio {
-        position: absolute;
-        width: 145px;
-        left: 215px;
-        top: 24px;
-        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
@@ -74,11 +39,6 @@ img {
         color: #2196F3;
 }
 .studio {
-    position: absolute;
-        width: 45px;
-        left: 453px;
-        top: 32px;
-        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -87,12 +47,6 @@ img {
         color: #212121;
 }
 .portfolio {
-    position: absolute;
-        width: 72px;
-        left: 548px;
-        top: 32px;
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -100,11 +54,6 @@ img {
         color: #2196F3;
 }
 .contacts {
-    position: absolute;
-        width: 64px;
-        left: 670px;
-        top: 32px;
-        font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
@@ -122,117 +71,58 @@ img {
     list-style: none;
 }
 .button1 {
-        position: absolute;
-        width: 73px;
-        left: 512px;
-        top: 174px;
         background: #2196F3;
         cursor: pointer
 }
 .button2 {
-        position: absolute;
-        width: 125px;
-        left: 593px;
-        top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
 .button3 {
-        position: absolute;
-        width: 112px;
-        left: 726px;
-        top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
 .button4 {
-        position: absolute;
-        width: 103px;
-        left: 846px;
-        top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
 .button5 {
-        position: absolute;
-        width: 130px;
-        left: 957px;
-        top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
 .technocrack {
-    position: absolute;
-        width: 370px;
-        left: 215px;
-        top: 262px;
-        background:;
+
 }
 .orleanvsstar {
-    position: absolute;
-        width: 370px;
-        left: 615px;
-        top: 262px;
-        background:;
+
 }
 .seafood {
-    position: absolute;
-        width: 370px;
-        left: 1015px;
-        top: 262px;
-        background:;
+
 }
 .prime {
-    position: absolute;
-        width: 370px;
-        left: 215px;
-        top: 696px;
-        background:;
+
 }
 .boxes {
-    position: absolute;
-        width: 370px;
-        left: 615px;
-        top: 696px;
-        background:;
+
 }
 .inspiration {
-position: absolute;
-    width: 370px;
-    left: 1015px;
-    top: 696px;
-    background:;
+
 }
 .limited_edition {
-    position: absolute;
-        width: 370px;
-        left: 215px;
-        top: 1130px;
-        background:;
+
 }
 .lab {
-    position: absolute;
-        width: 370px;
-        left: 615px;
-        top: 1130px;
-        background:;
+
 }
 .business {
-    position: absolute;
-        width: 370px;
-        left: 1015px;
-        top: 1130px;
-        background:;
+
 }
+
 .webstudio1 {
-    position: absolute;
-        width: 145px;
-        left: 215px;
-        top: 1688px;
         font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 700;
@@ -242,10 +132,6 @@ position: absolute;
         color: #2196F3;
 }
 .location {
-    position: absolute;
-        width: 231px;
-        left: 215px;
-        top: 1739px;
         font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 400;
