@@ -1,19 +1,22 @@
+body {
+    font-family: 'Roboto';
+    background: white;
+}
+.h1,
+.h2,
+.paragraph,
+li {
+    font-family: 'Roboto', sans-serif;
+}
+img {
+    width: fit-content;
+}
 .header {
         position: absolute;
         width: 1600px;
         left: 0px;
         top: 0px;
         background: white;
-}
-.body {
-    background: white;
-}
-h1,
-h2,
-h3,
-p,
-li {
-    font-family: 'Roboto', sans-serif;
 }
 .footer {
     position: absolute;
@@ -123,6 +126,7 @@ li {
         left: 512px;
         top: 174px;
         background: #2196F3;
+        cursor: pointer
 }
 .button2 {
         position: absolute;
@@ -131,6 +135,7 @@ li {
         top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
+        cursor: pointer
 }
 .button3 {
         position: absolute;
@@ -139,6 +144,7 @@ li {
         top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
+        cursor: pointer
 }
 .button4 {
         position: absolute;
@@ -147,6 +153,7 @@ li {
         top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
+        cursor: pointer
 }
 .button5 {
         position: absolute;
@@ -155,6 +162,7 @@ li {
         top: 174px;
         background: #F5F4FA;
         border-radius: 4px;
+        cursor: pointer
 }
 .technocrack {
     position: absolute;
