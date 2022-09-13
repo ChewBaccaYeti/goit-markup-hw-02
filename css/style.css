@@ -1,19 +1,24 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    background: white;
+        font-family: 'Roboto', sans-serif;
+        background: white;
 }
+
 img {
-    width: fit-content;
+        width: fit-content;
 }
+
 .header {
         background: white;
 }
+
 .footer {
-    background: black;
+        background: black;
 }
+
 .navigation {
         background: white;
 }
+
 .mail-header {
         font-style: normal;
         font-weight: 500;
@@ -22,22 +27,26 @@ img {
         letter-spacing: 0.02em;
         color: #2196F3;
 }
+
 .phone-header {
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
-        color: #757575; 
-    }
+        color: #757575;
+}
+
 .webstudio {
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
-        line-height: 31px;        /* identical to box height */
+        line-height: 31px;
+        /* identical to box height */
         letter-spacing: 0.03em;
         color: #2196F3;
 }
+
 .studio {
         font-style: normal;
         font-weight: 500;
@@ -46,6 +55,7 @@ img {
         letter-spacing: 0.02em;
         color: #212121;
 }
+
 .portfolio {
         font-weight: 500;
         font-size: 14px;
@@ -53,6 +63,7 @@ img {
         letter-spacing: 0.02em;
         color: #2196F3;
 }
+
 .contacts {
         font-style: normal;
         font-weight: 500;
@@ -61,66 +72,64 @@ img {
         letter-spacing: 0.02em;
         color: #212121;
 }
+
 .team-section {
-    font-style: normal;
-    list-style: none;
-    text-decoration: none;
+        font-style: normal;
+        list-style: none;
+        text-decoration: none;
 }
+
 .teams {
-    text-decoration: none;
-    list-style: none;
+        text-decoration: none;
+        list-style: none;
 }
+
 .button1 {
         background: #2196F3;
         cursor: pointer
 }
+
 .button2 {
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
+
 .button3 {
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
+
 .button4 {
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
+
 .button5 {
         background: #F5F4FA;
         border-radius: 4px;
         cursor: pointer
 }
-.technocrack {
 
-}
-.orleanvsstar {
+.technocrack {}
 
-}
-.seafood {
+.orleanvsstar {}
 
-}
-.prime {
+.seafood {}
 
-}
-.boxes {
+.prime {}
 
-}
-.inspiration {
+.boxes {}
 
-}
-.limited_edition {
+.inspiration {}
 
-}
-.lab {
+.limited_edition {}
 
-}
-.business {
+.lab {}
 
-}
+.business {}
 
 .webstudio1 {
         font-family: 'Roboto', sans-serif;
@@ -131,6 +140,7 @@ img {
         letter-spacing: 0.03em;
         color: #2196F3;
 }
+
 .location {
         font-family: 'Roboto', sans-serif;
         font-style: normal;
